@@ -1,0 +1,14 @@
+Role Summary:
+Imaging platform development for super-resolution imaging of human cancers. We are seeking a co-op student to join a team of biologists, engineers and data scientists currently developing state of the art methods for spatial imaging of RNA species in human cancers at single cell resolution. Studying tumours at the single cell level can reveal biological differences that may not be resolved when looking at the tumour as a whole. The imaging methods being developed include the use of molecularly encoded super-resolution microscopy to detect single molecules of RNA in tissue specimens. The successful candidate will develop a microscopy imaging suite integrating super-resolution microscopy, fluidics and camera functions to facilitate sequential imaging of human cancers
+
+Key tasks include:
+
+    Coding, software support, software development and resolving software bugs of current custom microscope software
+    Development, modification and implementation of current and or new microscope hardware
+    Work in conjunction with current research team (Post-Doc, Engineers, COOP) to conduct MERFISH experiments
+
+Job Requirements: 	Qualifications
+
+    Programming experience: Python, Matlab, C/C++. CAD (Bonus)
+    Knowledge of microscopy, optics, imaging or fluid dynamics an asset
+
