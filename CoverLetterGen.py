@@ -23,7 +23,7 @@ def multi_read(statement):
             line = input()
         except EOFError:
             return lines
-        lines + (line)
+        lines = lines + (line)
 
 def generate_prompt():
     if(not os.path.exists("skills/summary")):

@@ -1,86 +1,42 @@
 
 
-John Doe
-123 Main Street 
-Anytown, USA 12345
-johndoe@email.com
-(123) 456-7890
+Joel Tsuchitori
+TsuchitoriJoel@gmail.com |  Tsuchijo |  Vancouver, Canada
+Education
+University of British Columbia (UBC) Vancouver
+Engineering Physics Sep. 2020 - Jun. 2025 (Projected) Grade Average: 87.6% ACT Score: 35/36
 
-Objective
-To obtain a position in a professional environment where I can use my skills in customer service and sales to help the company reach its goals.
+Technical Skills
+Programming: Matlab, C, Python, Jupyter, Java, Bash Scripting, Rust
+Professional Softwares: Simulink, Vivado, Solidworks, OnShape, Linux (Arch, Ubuntu), ROS, Excel, Windows
+Graphics & Typesetting: Office, LaTeX, Graphic Design, Video Editing
+Lab Skills: Soldering, Oscilloscope, Circuit Analysis, Troubleshooting, Presentation skills
 
-Experience
+Work Experience
+CCAT Collaboration NRC Herzberg
+KIDS Readout Development Jan. - May 2022
+• Designed a novel method of tone generation for Kinetic Inductance Detector Readout reducing memory by 99% compared to existing techniques.
+• Optimized readout architecture significantly reducing resource utilization compared to previous generation readout systems.
+• Designed and implemented gateware designs using Simulink and Vivado for the Xilinx RFSOC and verified their behavior in the lab.
 
-ABC Company
-Sales Representative 
-June 2015 – Present
-• Greet customers, answer questions, and provide information on products and services 
-• Process payments and maintain accurate records of transactions 
-• Place orders for customers and manage inventory 
-• Develop and maintain relationships with customers 
-• Utilize customer service skills to resolve customer issues
+Projects
+Sailbots Design Team UBC
+Controls Software Lead Sep. 2020 - Current
+• Designed and Implemented a novel control system for an autonomous ocean-going sailboat using Python and ROS, building upon existing research in the field.
+• Coordinated live testing of the boat, implementing solutions on the fly and generating useful feedback to improve the control system.
+• Organized and held sub-team meetings and interviewed potential team members for recruitment.
 
-XYZ Company
-Retail Sales Associate 
-August 2013 – May 2015
-• Managed customer service and sales for retail store 
-• Processed payments and maintained accurate records of transactions 
-• Provided advice and assistance to customers 
-• Performed upkeep of store, including stocking and organizing merchandise 
-• Assisted in training new employees 
+Robotics Competition UBC
+Engineering Physics Robot Competition May - August 2022
+• Designed and built a robot using an STM-32 microcontroller to compete against other students in the program.
+• Implemented an IMU based navigation system which used PID controllers and sensor filtering successfully navigate the competition course.
+• Used signal processing knowledge to design a digital signal processing algorithm which could differentiate and track IR beacons of different frequencies.
+• Analyzed different motor options and drive configurations for a drivetrain using CAD, documentation, and testing, before ultimately designing and building the robot drivetrain.
 
-John Doe 
-123 Main Street 
-Anytown, USA 12345
-johndoe@email.com
-(123) 456-7890
+Publications
+[1] Scott C. Chapman, Anthony I. Huber, Adrien K. Sinclair, et al. “CCAT-prime: the 850 GHz camera for prime-cam on FYST,” SPIE Astronomical Telescopes + Instrumentation, 2022. [Link]
+[2] Adrian K. Sinclair, Ryan C. Stephenson, Cody A. Roberson, et al. “CCAT-prime: RFSoC based readout for frequency multiplexed kinetic inductance detectors,” SPIE Astronomical Telescopes + Instrumentation, 2022. [Link]
 
-Objective:
-To obtain a position in a professional environment where I can use my skills in customer service and sales to help the company reach its goals.
-
-Experience:
-ABC Company 
-Sales Representative 
-June 2015 – Present
-• Greet customers, answer questions, and provide information on products and services 
-• Process payments and maintain accurate records of transactions 
-• Place orders for customers and manage inventory 
-• Develop and maintain relationships with customers 
-• Utilize customer service skills to resolve customer issues
-
-XYZ Company 
-Retail Sales Associate 
-August 2013 – May 2015
-• Managed customer service and sales for retail store 
-• Processed payments and maintained accurate records of transactions 
-• Provided advice and assistance to customers 
-• Performed upkeep of store, including stocking and organizing merchandise 
-• Assisted in training new employees 
-
-John Doe
-123 Main Street
-Anytown, USA 12345
-johndoe@email.com
-(123) 456-7890
-
-Objective
-To obtain a position in a professional environment where I can use my skills in customer service and sales to help the company reach its goals.
-
-Experience
-ABC Company 
-Sales Representative 
-June 2015 – Present
-• Greet customers, answer questions, and provide info on products and services 
-• Process payments and maintain records of transactions 
-• Place orders and manage inventory 
-• Develop and maintain relationships with customers 
-• Utilize customer service skills to resolve issues
-
-XYZ Company 
-Retail Sales Associate 
-August 2013 – May 2015
-• Managed customer service and sales for retail store 
-• Processed payments and maintained records of transactions 
-• Provided advice and assistance to customers 
-• Stocked and organized merchandise 
-• Assisted in training new employees
+Awards and Honors
+• Sep. 2021 Scholarship: “Trek Excellence Scholarship” Vancouver
+• Sep. 2020 Award: “Outstanding International Student Award” Vancouver
