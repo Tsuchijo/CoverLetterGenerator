@@ -10,6 +10,7 @@ openai.api_key = os.getenv("OPENAI_API_KEY")
 prompt_path = "prompt"
 prompt = open(prompt_path, "r")
 resume_path = "resume/resume.txt"
+output_path = "output/"
 
 ## Function to clear terminal
 def clear():
@@ -55,7 +56,7 @@ def format_resume(resume):
     summary.write(resume)
 
 def save_file(file_name, text):
-    with open(file_name + '.txt', 'w') as f:
+    with open(output_path + file_name + '.txt', 'w') as f:
         f.write(text)
 
 ## Function to read input from user and edit letter
@@ -91,6 +92,7 @@ def read_input(description):
             save_name = input("save as:")
             save_file(save_name, letter.choices[0].text)
             print('saved!')
+            saved = True
         else:
             loader = Loader("Editing...", "Finished", 0.05).start()
             letter = openai.Edit.create(
